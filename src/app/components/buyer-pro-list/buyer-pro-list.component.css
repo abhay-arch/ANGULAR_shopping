@@ -1,0 +1,16 @@
+img{
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    padding: 10px;
+    background-color: rosybrown;
+}
+.child{
+    display: inline-block;
+}
+.container
+{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: bisque;
+}
